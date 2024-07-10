@@ -9,6 +9,9 @@ A simple To-Do application built using Flutter and Hive for local storage.
 - Delete tasks
 - Persist tasks using Hive database
 
+## Images
+![Screenshot 1](images/ss1.jpg)
+![Screenshot 2](images/ss2.jpg)
 ## Getting Started
 
 ### Prerequisites
