@@ -10,8 +10,8 @@ A simple To-Do application built using Flutter and Hive for local storage.
 - Persist tasks using Hive database
 
 ## Images
-![Screenshot 1](images/ss1.jpg)
-![Screenshot 2](images/ss2.jpg)
+<img src="images/ss1.jpg" alt="Screenshot 1" width="300"/>
+<img src="images/ss2.jpg" alt="Screenshot 2" width="300"/>
 ## Getting Started
 
 ### Prerequisites
